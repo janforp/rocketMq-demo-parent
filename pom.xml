@@ -9,7 +9,9 @@
     <modules>
         <module>mq-one</module>
 		<module>mq-two</module>
-	</modules>
+        <module>mq-two</module>
+        <module>mq-three</module>
+    </modules>
     <packaging>pom</packaging>
 
 	<name>rocketMq-demo-parent</name>
