@@ -11,7 +11,9 @@
 		<module>mq-two</module>
         <module>mq-two</module>
         <module>mq-three</module>
-    </modules>
+        <module>mq-producer</module>
+		<module>mq-consumer-one</module>
+	</modules>
     <packaging>pom</packaging>
 
 	<name>rocketMq-demo-parent</name>
